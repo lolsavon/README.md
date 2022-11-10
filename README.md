@@ -1,0 +1,2 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=303135&size=18&vCenter=true&height=16&lines=hello+,+i'm+eddie.;💻+a+self+taught+programmer,+student.)](https://discord.com/oauth2/authorize?client_id=1014050243328888894&permissions=8&scope=bot%20applications.commands)
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/1039687234737152030/1040099286161043527/IMG_1601.png" alt="profile Views" />
